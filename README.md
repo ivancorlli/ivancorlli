@@ -48,7 +48,7 @@ class Bio extends SoftwareDeveloper {
 ---
 
 
-### Contact Me 🛠 
+### Contact Me 	:round_pushpin:
 
 [![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ivancorlli)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-corlli-01037b216/)
