@@ -20,7 +20,7 @@ class Bio extends SoftwareDeveloper {
   name     = 'Ivan Corlli' ;
   age      =  21 ;
   title    = 'FullStack Web Developer' ;
-  location = 'Salta, Argentina' ;
+  location = 'Tucuman, Argentina' ;
 }
 
 ```
