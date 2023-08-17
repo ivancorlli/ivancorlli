@@ -33,10 +33,10 @@ class Bio extends SoftwareDeveloper {
 ### Languages and Tools 🛠 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=typescript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![.Net](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=dotnet&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23F7DF1C?style=flat-square&logo=typescript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![.Net](https://img.shields.io/badge/-.Net-%23F7DF1C?style=flat-square&logo=dotnet&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![Next](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=next&logoColor=ffffff)
+![Next](https://img.shields.io/badge/-Next-61DAFB?style=flat-square&logo=next&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
