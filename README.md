@@ -24,11 +24,7 @@ class Bio extends SoftwareDeveloper {
 }
 
 ```
-#### - 	:point_right: I’m currently learning Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-  
-#### - 	:point_right: I’m currently working on a little project for my father's buisiness   [![Github Badge](https://img.shields.io/badge/-Repo-black?style=flat&logo=Github&logoColor=white&link=https://github.com/ivancorlli/Lubricentro)](https://github.com/ivancorlli/Lubrinoa/tree/dev) <code>
 <br />
-
 ---
 ### Languages and Tools 🛠 
 
@@ -47,8 +43,6 @@ class Bio extends SoftwareDeveloper {
 ![Mongodb](http://img.shields.io/badge/-Mongodb-231572B6?style=flat-square&logo=mongodb&logoColor=ffffff)
 
 ---
-
-
 ### Contact Me 	:round_pushpin:
 
 [![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ivancorlli)
