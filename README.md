@@ -46,7 +46,7 @@ Languages and Tools 🛠
 
 [![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ivancorlli)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-corlli-01037b216/)
-[![ivancorlli.com](https://img.shields.io/badge/-IVANCORLLI.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://ivancorlli.netlify.app/)
+[![corlabs.com.ar](https://img.shields.io/badge/-IVANCORLLI.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://corlabs.com.ar/)
 
 <br/>
 
