@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 class Bio extends SoftwareDeveloper {
   name     = 'Ivan Corlli' ;
-  age      =  23 ;
+  age      =  25 ;
   title    = 'Software Developer' ;
   location = 'Tucuman, Argentina' ;
 }
